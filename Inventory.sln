@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory", "inventory\Inventory.csproj", "{91652682-3694-47C0-A7B0-6E850E2AC761}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{A52E9021-B3C8-4E90-8C35-F6A893A23FCB}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		SharedAssemblyInfo.cs = SharedAssemblyInfo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91652682-3694-47C0-A7B0-6E850E2AC761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91652682-3694-47C0-A7B0-6E850E2AC761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91652682-3694-47C0-A7B0-6E850E2AC761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91652682-3694-47C0-A7B0-6E850E2AC761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6355EF2D-9E4A-4B6C-A598-B6C9BA0E0455}
+	EndGlobalSection
+EndGlobal
